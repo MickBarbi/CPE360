@@ -1,2 +1,2 @@
 # CPE390
-My collection of homeworks, labs, and projects, from CPE - Data Structures and Algorithms.
+My collection of homeworks, labs, and projects, from CPE360 - Data Structures and Algorithms.
